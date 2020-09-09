@@ -1,7 +1,7 @@
 # Hi,  I am Soumyajit aka corefinder, a full stack qa engineer 👦🏻  
 ##### Senior Software QUALITY ASSURANCE Engineer @ Synupinc.
 
-I write automation code to test backend stack and user based functions for a software. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker__.
+I write automation code to test backend for data, APIS, endpoints and user based functions for SaaS softwares. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker__.
 
 I am currently working on creating a module in python to create a wrapper over selenium that will help reduce lines of code and manage browser driver dependencies . You can check it out on [GitHub](https://github.com/flu-x/flexibox) and [PyPi](https://pypi.org/project/flexibox/)
 
