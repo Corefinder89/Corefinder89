@@ -1,4 +1,71 @@
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 219 Contributions in the Year 2021
+ > 
+> 📦 152.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    38 commits     █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+🌆 Daytime    83 commits     ███████████░░░░░░░░░░░░░░   46.37% 
+🌃 Evening    54 commits     ███████░░░░░░░░░░░░░░░░░░   30.17% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       38 commits     █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08% 
+Wednesday    48 commits     ██████░░░░░░░░░░░░░░░░░░░   26.82% 
+Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+Friday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
+Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   38.89% 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Corefinder89/Corefinder89/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 # Hi,  I am Soumyajit aka corefinder, a full stack qa engineer 👦🏻  
