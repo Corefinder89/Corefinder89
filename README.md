@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Hi,  I am Soumyajit aka corefinder, a full stack qa engineer 👦🏻  
 ##### Senior Software QUALITY ASSURANCE Engineer @ Synupinc.
 
