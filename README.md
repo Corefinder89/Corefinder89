@@ -14,7 +14,7 @@
 Hi, I am Soumyajit aka corefinder, a self taught and a full stack qa engineer from India👦🏻  
 Working as a Senior Software QUALITY ASSURANCE Engineer @ Bugcrowd.
 
-I write automation code to break the web mostly, but to well describe I write automation code to test backend for data, APIS, endpoints and user based functions in the UI for SaaS softwares. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker__.
+I write automation code to break the web mostly, but to well describe I write automation code to test backend for data, APIS, endpoints and user based functions in the UI for SaaS softwares. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker, buildkite, travis__.
 
 I am currently working on creating a module in python to create a wrapper over selenium that will help reduce lines of code and manage browser driver dependencies . You can check it out on [GitHub](https://github.com/flu-x/flexibox) and [PyPi](https://pypi.org/project/flexibox/)
 
