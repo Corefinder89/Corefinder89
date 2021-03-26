@@ -18,6 +18,11 @@ I write automation code to test backend for data, APIS, endpoints and user based
 
 I am currently working on creating a module in python to create a wrapper over selenium that will help reduce lines of code and manage browser driver dependencies . You can check it out on [GitHub](https://github.com/flu-x/flexibox) and [PyPi](https://pypi.org/project/flexibox/)
 
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 DM if you're interested 📣.
 
 I'm more than happy to collaborate on cool projects. Hit me [@SoumyajitBasu19](https://twitter.com/SoumyajitBasu19).
