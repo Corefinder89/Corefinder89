@@ -9,7 +9,7 @@
 </a>
 
 <br />
-
+<br />
 
 Hi, I am Soumyajit aka corefinder, a self taught and a full stack qa engineer from India👦🏻  
 Working as a Senior Software QUALITY ASSURANCE Engineer @ Bugcrowd.
