@@ -1,3 +1,27 @@
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/SoumyajitBasu19">
+  <img align="left" alt="Soumyajit Basu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/soumyajit-basu-5a783886/">
+  <img align="left" alt="Soumyajit Basu | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+
+
+Hi, I am Soumyajit aka corefinder, a self taught and a full stack qa engineer from India👦🏻  
+Working as a Senior Software QUALITY ASSURANCE Engineer @ Bugcrowd.
+
+I write automation code to test backend for data, APIS, endpoints and user based functions for SaaS softwares. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker__.
+
+I am currently working on creating a module in python to create a wrapper over selenium that will help reduce lines of code and manage browser driver dependencies . You can check it out on [GitHub](https://github.com/flu-x/flexibox) and [PyPi](https://pypi.org/project/flexibox/)
+
+DM if you're interested 📣.
+
+I'm more than happy to collaborate on cool projects. Hit me [@SoumyajitBasu19](https://twitter.com/SoumyajitBasu19).
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -68,16 +92,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-# Hi,  I am Soumyajit aka corefinder, a full stack qa engineer 👦🏻  
-##### Senior Software QUALITY ASSURANCE Engineer @ Synupinc.
-
-I write automation code to test backend for data, APIS, endpoints and user based functions for SaaS softwares. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker__.
-
-I am currently working on creating a module in python to create a wrapper over selenium that will help reduce lines of code and manage browser driver dependencies . You can check it out on [GitHub](https://github.com/flu-x/flexibox) and [PyPi](https://pypi.org/project/flexibox/)
-
-DM if you're interested 📣.
-
-I'm more than happy to collaborate on cool projects. Hit me [@SoumyajitBasu19](https://twitter.com/SoumyajitBasu19).
 ## 
 ![Corefinder's github stats](https://github-readme-stats.vercel.app/api?username=Corefinder89&show_icons=true&theme=dark)
 	
