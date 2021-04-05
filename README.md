@@ -28,17 +28,17 @@ DM if you're interested 📣.
 I'm more than happy to collaborate on cool projects. Hit me [@SoumyajitBasu19](https://twitter.com/SoumyajitBasu19).
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 263 Contributions in the Year 2021
+> 🏆 264 Contributions in the Year 2021
  > 
 > 📦 152.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
