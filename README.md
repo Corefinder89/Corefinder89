@@ -28,7 +28,7 @@ DM if you're interested 📣.
 I'm more than happy to collaborate on cool projects. Hit me [@SoumyajitBasu19](https://twitter.com/SoumyajitBasu19).
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
