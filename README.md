@@ -34,7 +34,7 @@ I'm more than happy to collaborate on cool projects. Hit me [@SoumyajitBasu19](h
 
 > 🏆 270 Contributions in the Year 2021
  > 
-> 📦 152.3 kB Used in Github's Storage 
+> 📦 152.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
