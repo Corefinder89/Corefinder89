@@ -11,12 +11,23 @@
 <br />
 <br />
 
-Hi, I am Soumyajit aka corefinder, a self taught and a full stack qa engineer from India👦🏻  
-Working as a Senior Software QUALITY ASSURANCE Engineer @ Bugcrowd.
+Hi, I am Soumyajit aka corefinder, a self taught tech enthusiast and a full stack qa engineer from India👦🏻  
+
+Working as a <em>SENIOR SOFTWARE QUALITY ASSURANCE ENGINEER (AUTOMATION)</em> @ [Bugcrowd](https://bugcrowd.com/).
 
 I write automation code to break the web mostly, but to well describe I write automation code to test backend for data, APIS, endpoints and user based functions in the UI for SaaS softwares. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker, buildkite, travis__.
 
 I am currently working on creating a module in python to create a wrapper over selenium that will help reduce lines of code and manage browser driver dependencies . You can check it out on [GitHub](https://github.com/flu-x/flexibox) and [PyPi](https://pypi.org/project/flexibox/)
+
+I also created a module in python which give a bit of brief about me in short. More updates on this are soon going to fly right within the code ...
+You can check it out on [GitHub](https://github.com/Corefinder89/corefinder) and [PyPi](https://pypi.org/project/corefinder/)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit about me ...
+```python
+pip install corefinder
+corefinder
+```
+
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
