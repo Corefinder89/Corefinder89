@@ -70,7 +70,7 @@ My other skill sets includes the following as well
 ![](https://img.shields.io/badge/Build-Pipeline-informational?style=flat)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3392%20lines%20of%20code-blue)
 
