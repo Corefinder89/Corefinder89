@@ -36,7 +36,7 @@
                 src="https://img.shields.io/badge/-Research%20guide%20author%20@%20Dzone-f28818?style=flat-square">
         </a>
         <!-- Dzone Article Contributor-->
-        <a href="https://pypi.org/user/corefinder89/" target="_blank"><img alt="Article contributor @ Dzone"
+        <a href="https://dzone.com/users/2997625/corefinder.html" target="_blank"><img alt="Article contributor @ Dzone"
                 src="https://img.shields.io/badge/-Article%20contributor%20@%20Dzone-77f218?style=flat-square">
         </a>
         <!-- PyPi-->
