@@ -44,6 +44,7 @@
                 src="https://img.shields.io/badge/-PyPi-1877F2?style=flat-square&logo=Python&logoColor=white">
         </a>
         <br>
+        <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
