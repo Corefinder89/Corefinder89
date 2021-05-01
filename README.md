@@ -1,30 +1,70 @@
 ![GitHub followers](https://img.shields.io/github/followers/Corefinder89?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/SoumyajitBasu19?style=social) 
 
-## 
-![Corefinder's github stats](https://github-readme-stats.vercel.app/api?username=Corefinder89&show_icons=true&theme=dark)
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am
+                <b><a target="_blank" href="https://soumyajit2016.wordpress.com/">Soumyajit Basu</a></b> aka Corefinder
+        </samp>
+</h3>
+<br>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/SoumyajitBasu19">
-  <img align="left" alt="Soumyajit Basu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/soumyajit-basu-5a783886/">
-  <img align="left" alt="Soumyajit Basu | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
-<br />
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 From Kolkata, West bengal 」<br>
+                「 <em>Profession: Full stack quality engineer</em> 」
+                <br>
+                「 <em>Currently: SENIOR SOFTWARE QUALITY ASSURANCE ENGINEER (AUTOMATION)</em> @ <b><a target="_blank" href="https://bugcrowd.com/">Bugcrowd</a></b> 」
+                <br>
+                <br>
+        </samp>
+</p>
 
-Hi, I am Soumyajit aka `corefinder`, a self taught tech enthusiast and a full stack qa engineer from India 👦🏻  
-
-Working as a <em>SENIOR SOFTWARE QUALITY ASSURANCE ENGINEER (AUTOMATION)</em> @ [Bugcrowd](https://bugcrowd.com/).
-
-I write automation code to break the web mostly, but to well describe I write automation code to test backend for data, APIS, endpoints and user based functions in the UI for SaaS softwares. I have knowledge of working in __Python, Selenium, GraphQL, Elasticsearch, Postgres, Restful API, Selenium grid, docker, buildkite, travis__.
-
-I am currently working on creating a module in python to create a wrapper over selenium that will help reduce lines of code and manage browser driver dependencies . You can check it out on [GitHub](https://github.com/flu-x/flexibox) and [PyPi](https://pypi.org/project/flexibox/)
-
-I also created a module in python which give a bit of brief about me in short. More updates on this are soon going to fly right within the code ...
-You can check it out on [GitHub](https://github.com/Corefinder89/corefinder) and [PyPi](https://pypi.org/project/corefinder/)
+<!-- Details Section-->
+<details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Corefinder's github stats"
+                src="https://github-readme-stats.vercel.app/api?username=Corefinder89&show_icons=true&theme=radical" />
+        <br>
+        <!-- Open source contributions -->      
+        <p>Contributions</p>
+        <!-- Research guide author -->
+        <a href="http://dz2prod01.cloud.answerhub.com/guides/automated-testing-improving-application-speed-and" target="_blank"><img alt="Research guide author @ Dzone"
+                src="https://img.shields.io/badge/-Research%20guide%20author%20@%20Dzone-f28818?style=flat-square">
+        </a>
+        <!-- Dzone Article Contributor-->
+        <a href="https://pypi.org/user/corefinder89/" target="_blank"><img alt="Article contributor @ Dzone"
+                src="https://img.shields.io/badge/-Article%20contributor%20@%20Dzone-77f218?style=flat-square">
+        </a>
+        <!-- PyPi-->
+        <a href="https://pypi.org/user/corefinder89/" target="_blank"><img alt="PyPi"
+                src="https://img.shields.io/badge/-PyPi-1877F2?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Gmail -->
+        <a href="mailto:soumyajit.basu62@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/soumyajit.basu/" target="_blank"><img alt="Facebook"
+                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+        </a>
+        <!--Twitter-->
+        <a href="https://twitter.com/SoumyajitBasu19" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1877F2?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/soumyajit-basu-5a783886/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> To know more about me ...
 ```python
@@ -40,34 +80,32 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 DM if you're interested 📣.
 
-I'm more than happy to collaborate on cool projects. Hit me [@SoumyajitBasu19](https://twitter.com/SoumyajitBasu19).
+My skill sets includes the following
 
-My other skill sets includes the following as well
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/code-travis-informational?style=flat&logo=travis&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Os-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FBC624) 
-![](https://img.shields.io/badge/Os-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=FBC624) 
-![](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=PostgreSql&logoColor=white&color=336791) 
-![](https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=MySql&logoColor=white&color=336791) 
-![](https://img.shields.io/badge/Test-Graphql-informational?style=flat&logo=Graphql&logoColor=white&color=336791) 
-![](https://img.shields.io/badge/Test-Elasticsearch-informational?style=flat&logo=Elasticsearch&logoColor=white&color=336791) 
-![](https://img.shields.io/badge/Test-Data-informational?style=flat) 
-![](https://img.shields.io/badge/Test-JSON-informational?style=flat&logo=json&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Test-RestAPI-informational?style=flat) 
-![](https://img.shields.io/badge/Documentation-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Idea-JIRA-informational?style=flat&logo=jira&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Knowledge-Git-informational?style=flat&logo=git&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Knowledge-GitHub-informational?style=flat&logo=github&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Knowledge-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=1C7396) 
-![](https://img.shields.io/badge/Code-Pytest-informational?style=flat) 
-![](https://img.shields.io/badge/Code-Selenium-informational?style=flat) 
-![](https://img.shields.io/badge/Code-BDD-informational?style=flat) 
-![](https://img.shields.io/badge/Code-CI-informational?style=flat) 
-![](https://img.shields.io/badge/Build-Pipeline-informational?style=flat)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/travis-informational?style=flat&logo=travis&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/VisualStudio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=FBC624) 
+![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=Apple&logoColor=white&color=FBC624) 
+![](https://img.shields.io/badge/Postgres-informational?style=flat&logo=PostgreSql&logoColor=white&color=336791) 
+![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=MySql&logoColor=white&color=336791) 
+![](https://img.shields.io/badge/Graphql-informational?style=flat&logo=Graphql&logoColor=white&color=336791) 
+![](https://img.shields.io/badge/Elasticsearch-informational?style=flat&logo=Elasticsearch&logoColor=white&color=336791) 
+![](https://img.shields.io/badge/Data-informational?style=flat) 
+![](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/RestAPI-informational?style=flat) 
+![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/JIRA-informational?style=flat&logo=jira&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=1C7396) 
+![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=1C7396) 
+https://img.shields.io/badge/PyTest-baeb16?style=flat-square&logo=Python&logoColor=black 
+![](https://img.shields.io/badge/Selenium-187?style=flat-square&logo=Selenium&logoColor=white) 
+![](https://img.shields.io/badge/BDD-informational?style=flat) 
+![](https://img.shields.io/badge/CI-informational?style=flat) 
+![](https://img.shields.io/badge/Pipeline-informational?style=flat)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
