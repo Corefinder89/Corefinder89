@@ -101,7 +101,7 @@ My skill sets includes the following
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=1C7396) 
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=1C7396) 
 ![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=1C7396) 
-https://img.shields.io/badge/PyTest-baeb16?style=flat-square&logo=Python&logoColor=black 
+![](https://img.shields.io/badge/PyTest-baeb16?style=flat-square&logo=Python&logoColor=black)
 ![](https://img.shields.io/badge/Selenium-187?style=flat-square&logo=Selenium&logoColor=white) 
 ![](https://img.shields.io/badge/BDD-informational?style=flat) 
 ![](https://img.shields.io/badge/CI-informational?style=flat) 
