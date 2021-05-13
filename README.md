@@ -109,7 +109,7 @@ My skill sets includes the following
 ![](https://img.shields.io/badge/Pipeline-informational?style=flat)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3709%20lines%20of%20code-blue)
 
@@ -154,15 +154,13 @@ Sunday       65 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 49 mins             ████████████████░░░░░░░░░   67.14% 
-Python                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.48% 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
