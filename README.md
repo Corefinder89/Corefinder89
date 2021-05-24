@@ -8,6 +8,7 @@
 </h3>
 <br>
 
+
 <p align="center">
         <!-- Organisation  -->
         <samp>
@@ -19,6 +20,7 @@
                 <br>
         </samp>
 </p>
+
 
 <!-- Details Section-->
 <details align="center">
@@ -67,15 +69,18 @@
 </details>
 <br>
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> To know more about me ...
 ```python
 pip install corefinder
 corefinder
 ```
-
+<br>
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
-
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
