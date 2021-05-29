@@ -197,7 +197,9 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&theme=synthwave">
+</p>
 <br>
+<p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Corefinder89&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 </p>
 
