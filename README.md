@@ -114,15 +114,15 @@ My skill sets includes the following
 ![](https://img.shields.io/badge/Pipeline-informational?style=flat)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3778%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3872%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 531 Contributions in the Year 2021
+> 🏆 457 Contributions in the Year 2021
  > 
-> 📦 180.1 kB Used in Github's Storage 
+> 📦 171.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -133,22 +133,22 @@ My skill sets includes the following
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    76 commits     ██████░░░░░░░░░░░░░░░░░░░   24.76% 
-🌆 Daytime    127 commits    ██████████░░░░░░░░░░░░░░░   41.37% 
-🌃 Evening    87 commits     ███████░░░░░░░░░░░░░░░░░░   28.34% 
-🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.54%
+🌞 Morning    68 commits     ██████░░░░░░░░░░░░░░░░░░░   24.2% 
+🌆 Daytime    114 commits    ██████████░░░░░░░░░░░░░░░   40.57% 
+🌃 Evening    88 commits     ███████░░░░░░░░░░░░░░░░░░   31.32% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
-Wednesday    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-Friday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
-Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-Sunday       79 commits     ██████░░░░░░░░░░░░░░░░░░░   25.73%
+Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
+Wednesday    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+Friday       48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
+Saturday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+Sunday       68 commits     ██████░░░░░░░░░░░░░░░░░░░   24.2%
 
 ```
 
@@ -159,18 +159,16 @@ Sunday       79 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   15 mins             █████████████████░░░░░░░░   69.59% 
-YAML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   30.41%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sessions                 15 mins             █████████████████░░░░░░░░   69.59% 
-Corefinder89             6 mins              ███████░░░░░░░░░░░░░░░░░░   30.41%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -187,8 +185,14 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 **Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Corefinder89/Corefinder89/master/charts/bar_graph.png) 
+<!-- 
+![Chart not found](https://raw.githubusercontent.com/Corefinder89/Corefinder89/master/charts/bar_graph.png) -->
+</p>
+<p align="left">
+<img height="300px" src="https://raw.githubusercontent.com/Corefinder89/Corefinder89/master/charts/bar_graph.png">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Corefinder89&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
 
 <!--END_SECTION:waka-->
