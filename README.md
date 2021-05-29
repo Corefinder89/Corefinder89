@@ -196,7 +196,8 @@ Shell                    1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="left">
-<img align="right" height="300" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&theme=synthwave">
-<img align="left" height="300" width="400" src="https://activity-graph.herokuapp.com/graph?username=Corefinder89&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&theme=synthwave">
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Corefinder89&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 </p>
 
