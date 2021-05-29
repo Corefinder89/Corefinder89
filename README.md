@@ -189,8 +189,8 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Corefinder89/Corefinder89/master/charts/bar_graph.png) -->
 </p>
 <p align="left">
-<img height="300px" src="https://raw.githubusercontent.com/Corefinder89/Corefinder89/master/charts/bar_graph.png">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&theme=synthwave">
+<img style="margin:10px;" height="300px" src="https://raw.githubusercontent.com/Corefinder89/Corefinder89/master/charts/bar_graph.png">
+<img style="margin:10px;" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&theme=synthwave">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Corefinder89&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
