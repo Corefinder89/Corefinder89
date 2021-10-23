@@ -14,10 +14,6 @@
 
 - 👯 Collaborate on open source contributions. My contributions are present at [https://pypi.org/user/corefinder89/](https://pypi.org/user/corefinder89/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Corefinder89&show_icons=true&theme=synthwave" alt="Corefinder89" /> </p>
-  
-</p>
-<p align="left">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&theme=synthwave">
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Corefinder89&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<img align="left" height="300px" width="300px" src="https://github-readme-stats.vercel.app/api?username=Corefinder89&amp;show_icons=true&amp;theme=synthwave" alt="Corefinder89" />
+<img align="right" height="300px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&amp;theme=synthwave" />
+<img align="center" height="300px" width="800px" src="https://activity-graph.herokuapp.com/graph?username=Corefinder89&amp;bg_color=2B213A&amp;color=E5289E&amp;line=DA5B0B&amp;point=E1E8EB" />
