@@ -26,7 +26,7 @@ Like My Work?
 - 🚀 &nbsp; I’m currently learning DevOps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Corefinder89).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Corefinder89/Corefinder89/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Errors should never pass silently, unless explicitly silenced.
+- 👾 &nbsp; Fun fact: Errors should never pass silently, unless explicitly silenced in python.
 - 📫 &nbsp; How to reach me: soumyajit.basu62@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Corefinder89/Corefinder89/blob/master/resume.pdf).
 
@@ -60,15 +60,15 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corefinder89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corefinder89&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Corefinder89&hide_border=true" />
 </details>
 
 <details>
@@ -128,14 +128,13 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>OS:</b> MacOS</li>
+	    <li><b>Laptop: </b> MacBook Pro (i7)</li>
+  	    <li><b>Browser: </b> Firefox, Chrome and Safari Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> VSCode, Pycharm, Atom and Sublime</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>
 </details>
 
