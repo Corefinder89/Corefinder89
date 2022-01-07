@@ -141,9 +141,9 @@ Like My Work?
 
 ### For more tech stuffs you can follow:
 
-## [Dzone!](https://dzone.com/)
-## [Dev.to!](https://dev.to/)
-## [Medium!](https://medium.com/)
+### [Dzone!](https://dzone.com/)
+### [Dev.to!](https://dev.to/)
+### [Medium!](https://medium.com/)
 
 
 #
