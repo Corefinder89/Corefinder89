@@ -12,6 +12,8 @@ Joined Github **8** years ago.
 
 Since then I pushed **1088** commits, submitted **300**+ pull requests, and contributed with **1** project .
 
+To know more about me hit `pipx install corefinder` in your terminal.
+
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/corefinder89" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
@@ -47,10 +49,6 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="terminal"></code>
 <code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/selenium.png" alt="selenium"></code>
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
 ### Projects and Dev Stuffs:
 
