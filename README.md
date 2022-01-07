@@ -49,6 +49,8 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="terminal"></code>
 <code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/selenium.png" alt="selenium"></code>
+<code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/postgres.png" alt="postgres"></code>
+<code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/pytest.svg" alt="postgres"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 
 ### Projects and Dev Stuffs:
