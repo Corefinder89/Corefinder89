@@ -140,11 +140,12 @@ Like My Work?
 </details>
 
 <details>
-  <br /><b>🧑‍🚀 For more tech stuffs you can follow</b></summary>
+  <br />
+  <summary><b>🧑‍🚀 For more tech stuffs you can follow</b></summary>
   <ul>
-    <li><b>Dzone</b> src="https://dzone.com/"</li>
-    <li><b>Dev.to</b> src="https://dev.to/"</li>
-    <li><b>Medium</b> src="https://medium.com"</li>
+    <li><b><a href="https://dzone.com/">Dzone</a></b></li>
+    <li><b><a href="https://dev.to/">Dev.to</a></b></li>
+    <li><b><a href="https://medium.com/">Medium</a></b></li>
   </ul>
 </details>
 
