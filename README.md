@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=corefinder89.corefinder89&style=flat-square&color=0088cc&style=flat-square&color=0088cc)
 
-I'm a master's in Computer Application 🎓 from Symbiosis International University (Deemed) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve problems ✨. Apart from that I love talking, discussing and learning technologies 👨🏻‍💻. I'm currently into Quality and Automation 🕸️ Currently working on brushing up my DevOps skills 🤓.
+I'm a master's in `computer application (MSc. CA)` 🎓 from `Symbiosis International University (Deemed)` 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve problems ✨. Apart from that I love talking, discussing and learning technologies 👨🏻‍💻. I'm currently into Quality and Automation 🕸️ Currently working on brushing up my DevOps skills 🤓.
 
 Joined Github **8** years ago.
 
@@ -138,6 +138,13 @@ Like My Work?
 	    <br />
 	</ul>
 </details>
+
+### For more tech stuffs you can follow:
+
+- [Dzone!](https://dzone.com/)
+- [Dev.to!](https://dev.to/)
+- [Medium!](https://medium.com/)
+
 
 #
 
