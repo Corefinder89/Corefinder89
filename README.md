@@ -53,6 +53,8 @@ Like My Work?
 <code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/pytest.svg" alt="pytest"></code>
 <code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/postman.png" alt="postman"></code>
 <code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/insomnia.png" alt="insomnia"></code>
+<code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/PyCharm.svg" alt="pycharm"></code>
+<code><img height="27" src="https://github.com/Corefinder89/Corefinder89/blob/master/images/VSCode.png" alt="vscode"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 
 ### Projects and Dev Stuffs:
