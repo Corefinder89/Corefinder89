@@ -10,7 +10,7 @@ I'm a master's in Computer Application 🎓 from Symbiosis International Univers
 
 Joined Github **8** years ago.
 
-Since then I pushed **1088** commits, submitted **300**+ pull requests, and contributed with **1** project .
+Since then I pushed **1088** commits, submitted **300**+ pull requests, and contributed with **2** projects.
 
 To know more about me hit `pipx install corefinder` in your terminal.
 
@@ -32,10 +32,10 @@ Like My Work?
 - 📫 &nbsp; How to reach me: soumyajit.basu62@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Corefinder89/Corefinder89/blob/master/resume.pdf).
 
-### My Absolute Favorites:
+### My Absolute Favourites:
 
-- 💻 &nbsp; I love exploring new tech stack and working on cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible on Dzone and Medium.
+- 💻 &nbsp; I love exploring new tech stacks.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible on `Dzone` and `Medium`.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
@@ -109,6 +109,14 @@ Like My Work?
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Corefinder89/phoenix?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Corefinder89/phoenix?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Corefinder89/phoenix?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/Corefinder89/corefinder"><b>👨🏻‍💻 Business card</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Corefinder89/corefinder?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Corefinder89/corefinder?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Corefinder89/corefinder?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Corefinder89/corefinder?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Corefinder89/corefinder?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
