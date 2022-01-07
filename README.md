@@ -139,12 +139,14 @@ Like My Work?
 	</ul>
 </details>
 
-### For more tech stuffs you can follow:
-
-### [Dzone!](https://dzone.com/)
-### [Dev.to!](https://dev.to/)
-### [Medium!](https://medium.com/)
-
+<details>
+  <br /><b>🧑‍🚀 For more tech stuffs you can follow</b></summary>
+  <ul>
+    <li><b>Dzone</b> src="https://dzone.com/"</li>
+    <li><b>Dev.to</b> src="https://dev.to/"</li>
+    <li><b>Medium</b> src="https://medium.com"</li>
+  </ul>
+</details>
 
 #
 
