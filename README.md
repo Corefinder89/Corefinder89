@@ -24,7 +24,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Selenium, Python, Docker, Kubernetes <br /> Graphql, Postgres, Javascript, CI, pipelines etc.
+- 🛠 &nbsp; I’m currently working with Selenium, Python, Docker, Kubernetes Graphql, Postgres, Javascript, CI, pipelines etc.
 - 🚀 &nbsp; I’m currently learning DevOps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Corefinder89).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Corefinder89/Corefinder89/issues/1)! I am happy to help.
